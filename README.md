@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/teu-usuario/caminho-da-imagem/main/cyberpunk_gnu23_banner.png" alt="Gnu23 Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/teu-usuario/teu-repo/main/GNU23_cyberpunk_banner.png" alt="Gnu23 Banner" width="100%"/>
 </p>
 
 <h1 align="center">Gnu23 | Pentest Operator | Cyberpunk Dev</h1>
@@ -19,20 +19,20 @@ Crio scripts, automações e ferramentas com o intuito de aprender, explorar e c
 
 ### Skills em jogo
 
-- Python, Bash, Shell Script
-- Ferramentas como Nmap, Metasploit, Sqlmap, Burp Suite
-- Sistemas Android (Termux, Magisk, Custom ROMs)
-- Criação de ambientes hacking com distros Linux
+- Python, Bash, Shell Script  
+- Ferramentas como Nmap, Metasploit, Sqlmap, Burp Suite  
+- Sistemas Android (Termux, Magisk, Custom ROMs)  
+- Criação de ambientes hacking com distros Linux  
 - Arte visual no estilo **Cyberpunk**
 
 ---
 
 ### Projetos em curso
 
-- [x] Scanner de portas com enumeração e banner grabbing
-- [x] PDF sobre Pentest com design visual cyberpunk
-- [ ] Empacotamento `.deb` da minha tool insana
-- [ ] Setup para environment de CTFs
+- [x] Scanner de portas com enumeração e banner grabbing  
+- [x] PDF sobre Pentest com design visual cyberpunk  
+- [ ] Empacotamento `.deb` da minha tool insana  
+- [ ] Setup para environment de CTFs  
 
 ---
 
