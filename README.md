@@ -1,49 +1,36 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/teu-usuario/teu-repo/main/GNU23_cyberpunk_banner.png" alt="Gnu23 Banner" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-<h1 align="center">Gnu23 | Pentest Operator | Cyberpunk Dev</h1>
+# H4ck Th3 W0rld 🌐
 
-<p align="center">
-  <i>⚡ "Hack the Planet. Decode the Matrix. Build the Future."</i>
-</p>
+**Bem-vindo ao universo do Pentest!**  
+Eu sou o **Gnu23™**, estudante de Programação e Pentest, criador de ferramentas insanas para a comunidade.
 
 ---
 
-### Sobre mim
+### Sobre mim:
 
-Salve, meu truta! Sou o **Gnu23**, estudante de **programação**, apaixonado por **Pentest**, segurança ofensiva e aquele estilo dark tech underground.  
-Crio scripts, automações e ferramentas com o intuito de aprender, explorar e compartilhar conhecimento com a comunidade.
-
----
-
-### Skills em jogo
-
-- Python, Bash, Shell Script  
-- Ferramentas como Nmap, Metasploit, Sqlmap, Burp Suite  
-- Sistemas Android (Termux, Magisk, Custom ROMs)  
-- Criação de ambientes hacking com distros Linux  
-- Arte visual no estilo **Cyberpunk**
+- 🚀 Desenvolvendo scripts de automação para Linux/Termux
+- 🛡️ Focado em segurança ofensiva (Pentest)
+- 🖥️ Criador de projetos open-source para a comunidade hacker
+- 🧠 "H4ck Th3 W0rld"
 
 ---
 
-### Projetos em curso
+### Ferramentas
 
-- [x] Scanner de portas com enumeração e banner grabbing  
-- [x] PDF sobre Pentest com design visual cyberpunk  
-- [ ] Empacotamento `.deb` da minha tool insana  
-- [ ] Setup para environment de CTFs  
-
----
-
-### Contato e Links
-
-- Telegram: [@gnu23](https://t.me/gnu23)
-- PDF Pentest: em produção
-- Repositórios no GitHub: em expansão
+- Scripts de Port Scanning e Enumeração
+- Automatizações com Python
+- PDF de estudos de Pentest
+- Ferramentas futuras em `.deb` para facilitar a instalação
 
 ---
 
-<p align="center">
-  <b>H4ck Th3 W0rld.</b>
-</p>
+### Conecta-te comigo:
+
+- Telegram: [t.me/gnu23](https://t.me/gnu23)
+- GitHub: [gnu23-sys](https://github.com/gnu23-sys)
+
+---
+
+**"O impossível é apenas uma questão de perspectiva."**  
+**Stay Cyberpunk. Stay Real.**  
