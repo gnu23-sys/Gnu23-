@@ -28,11 +28,12 @@ Tenho experiência prática com:
 
 ## 🦊 Projeto em Destaque
 
-### Raposa AI – Assistente Inteligente no Telegram
+### Nexus AI – Assistente Inteligente no Telegram
 
 Bot desenvolvido com:
 - Sistema de modos (programador, psicólogo, artista, etc.)
 - Memória emocional
+- Arquivo Soul.md
 - Detecção automática de intenção
 - Sistema de temperatura dinâmica
 - Anti-repetição & proteção anti-jailbreak
