@@ -5,7 +5,7 @@
 
 <!-- ====================== TYPING ====================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Estudante+de+Cibersegurança+%26+Programação;Pentester+Ético+%F0%9F%94%90;Criador+do+DarkNode+%F0%9F%90%BA+%26+Nexus+AI+%F0%9F%A6%8A;Python+%7C+Automação+%7C+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Estudante+de+Cibersegurança+%26+Programação;Pentester+Ético+%F0%9F%94%90;Criador+do+DarkNode+%F0%9F%90%BA;Python+%7C+Automação+%7C+IA" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@ class Gnu23:
         self.funcao      = "Estudante de Programação & Cibersegurança"
         self.foco        = ["Pentesting Ético", "Automação", "IA / LLMs"]
         self.linguagem   = "Python 🐍"
-        self.projetos    = ["DarkNode 🐺", "Nexus AI 🦊"]
+        self.projeto     = "DarkNode 🐺"
         self.lema        = "A verdadeira liberdade digital vem da criação de valor."
 
     def hack(self):
@@ -85,36 +85,11 @@ class Gnu23:
 
 ---
 
-## 🚀 Outro Projeto — Nexus AI 🦊
+<div align="center">
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img src="https://raw.githubusercontent.com/gnu23-sys/Gnu23-/main/assets/darknode-banner.jpeg" width="100%"/>
 
-**Nexus AI** é o meu projeto de **LLM** conversacional: um assistente inteligente no **Telegram**, feito em Python e integrado com APIs de modelos de linguagem.
-
-O objetivo não é um chatbot qualquer — é um **agente com personalidade, memória e comportamento coerente**.
-
-**✨ Funcionalidades**
-
-- 🎭 **Sistema de modos** — programador, psicólogo, artista…
-- 🧠 **Memória emocional** — mantém contexto e estado
-- 📄 **Ficheiro `Soul.md`** — a "alma" e identidade do agente
-- 🎯 **Deteção de intenção** — adapta-se ao pedido
-- 🌡️ **Temperatura dinâmica** — criatividade vs. precisão
-- 🔁 **Anti-repetição** — evita respostas duplicadas
-- 🛡️ **Anti-jailbreak** — proteção contra manipulação de prompt
-
-</td>
-<td width="40%" valign="center" align="center">
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220"/>
-
-`🟢 EM EVOLUÇÃO CONTÍNUA`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
