@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+bot.log
+bot.log.*
+histories.json
+response_cache.json
+rate_limits.json
+user_modes.json
