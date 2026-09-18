@@ -11,7 +11,7 @@
 <br/>
 
 <!-- ====================== SOCIAL BADGES ====================== -->
-<a href="https://t.me/gnu23"><img src="https://img.shields.io/badge/Telegram-@gnu23-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/mr_joker78"><img src="https://img.shields.io/badge/Telegram-@mr__joker78-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://github.com/gnu23-sys"><img src="https://img.shields.io/badge/GitHub-gnu23--sys-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=gnu23-sys&style=for-the-badge&color=00ff9f&label=PROFILE+VIEWS"/>
 
@@ -152,7 +152,7 @@ class Gnu23:
 
 <div align="center">
 
-<a href="https://t.me/gnu23"><img src="https://img.shields.io/badge/Telegram-Fala_comigo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/mr_joker78"><img src="https://img.shields.io/badge/Telegram-Fala_comigo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://github.com/gnu23-sys"><img src="https://img.shields.io/badge/GitHub-Segue--me-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
