@@ -5,7 +5,7 @@
 
 <!-- ====================== TYPING ====================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Estudante+de+Cibersegurança+%26+Programação;Pentester+Ético+%F0%9F%94%90;Criador+do+Nexus+AI+%F0%9F%A6%8A;Python+%7C+Automação+%7C+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Estudante+de+Cibersegurança+%26+Programação;Pentester+Ético+%F0%9F%94%90;Criador+do+DarkNode+%F0%9F%90%BA+%26+Nexus+AI+%F0%9F%A6%8A;Python+%7C+Automação+%7C+IA" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@ class Gnu23:
         self.funcao      = "Estudante de Programação & Cibersegurança"
         self.foco        = ["Pentesting Ético", "Automação", "IA / LLMs"]
         self.linguagem   = "Python 🐍"
-        self.projeto     = "Nexus AI 🦊"
+        self.projetos    = ["DarkNode 🐺", "Nexus AI 🦊"]
         self.lema        = "A verdadeira liberdade digital vem da criação de valor."
 
     def hack(self):
@@ -49,13 +49,49 @@ class Gnu23:
 
 ---
 
-## 🚀 Projeto em Destaque — Nexus AI 🦊
+## 🐺 Projeto em Destaque — DarkNode
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-**Nexus AI** é o meu projeto principal de **LLM**: um assistente inteligente no **Telegram**, feito em Python e integrado com APIs de modelos de linguagem.
+**DarkNode** é um LLM de ciberseguranca (4B parametros, fine-tuning QLoRA) treinado para reforcar a capacidade de ciberseguranca de Portugal — analise de ameacas, deteccao SOC e literacia digital em PT-PT.
+
+*Think. Analyze. Secure. Evolve.*
+*Por um Portugal mais resiliente no digital.* 🇵🇹
+
+**✨ Pilares**
+
+- 🕵️ **Threat Intelligence (CTI)** — MITRE ATT&CK + NVD/CVE
+- 🛡️ **Assistente SOC** — analise de logs, deteccao de anomalias
+- 🎓 **Educacao PT-PT** — curriculo curado (phishing, RGPD, CNCS, NIS2...)
+- 🎯 Pentest Etico & OSINT — planeados
+- 🤖 RAG + agente com acesso a ferramentas — planeado
+
+**🛠️ Como foi construido**
+
+- Fine-tuning QLoRA (4-bit) via Unsloth, base Qwen3-4B-Instruct
+- Dados reais (MITRE ATT&CK, NVD/CVE) + logs SOC sinteticos + curriculo educativo escrito a mao
+- Avaliacao propria (held-out set) para detetar alucinacao antes de confiar no modelo
+
+</td>
+<td width="40%" valign="center" align="center">
+
+`🟢 EM DESENVOLVIMENTO ATIVO`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Outro Projeto — Nexus AI 🦊
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**Nexus AI** é o meu projeto de **LLM** conversacional: um assistente inteligente no **Telegram**, feito em Python e integrado com APIs de modelos de linguagem.
 
 O objetivo não é um chatbot qualquer — é um **agente com personalidade, memória e comportamento coerente**.
 
