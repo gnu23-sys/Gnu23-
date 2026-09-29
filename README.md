@@ -115,9 +115,9 @@ class Gnu23:
 
 🛡️ **Segurança Ofensiva Ética** &nbsp;•&nbsp; 🤖 **IA Aplicada & Agentes** &nbsp;•&nbsp; ⚙️ **Automação** &nbsp;•&nbsp; 🧰 **Ferramentas para a Comunidade**
 
-"DARKNODE IA" Para já ele só se encontra disponível no telegram, brevemente irei colocar a versão web.
+"DARKNODE IA" Ja tem site ofcial.
 
-Para quem quiser experimentar: https://t.me/blackhat_2026_bot
+Para quem quiser experimentar site ofcial: https://chat.darknode-ia.com/
 
 </div>
 
