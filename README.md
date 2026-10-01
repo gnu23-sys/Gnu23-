@@ -119,6 +119,8 @@ class Gnu23:
 
 Para quem quiser experimentar site ofcial: https://darknode-ia.com/
 
+TELEGRAM: https://www.linkedin.com/in/gnu-modder-951ab2357?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 </div>
 
 ---
