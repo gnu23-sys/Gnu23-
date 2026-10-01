@@ -117,7 +117,7 @@ class Gnu23:
 
 "DARKNODE IA" Ja tem site ofcial.
 
-Para quem quiser experimentar site ofcial: https://chat.darknode-ia.com/
+Para quem quiser experimentar site ofcial: https://darknode-ia.com/
 
 </div>
 
