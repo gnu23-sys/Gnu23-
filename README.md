@@ -1,11 +1,11 @@
 <!-- ====================== BANNER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gnu23&fontSize=70&fontColor=00ff9f&animation=fadeIn&fontAlignY=35&desc=H4ck%20Th3%20W0rld%20%F0%9F%8C%90&descSize=20&descAlignY=58&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:450a0a,100:0a0000&height=200&section=header&text=Gnu23&fontSize=70&fontColor=ef4444&animation=fadeIn&fontAlignY=35&desc=H4ck%20Th3%20W0rld%20%F0%9F%8C%90&descSize=20&descAlignY=58&descColor=ffffff" width="100%"/>
 
 <!-- ====================== TYPING ====================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Estudante+de+Cibersegurança+%26+Programação;Pentester+Ético+%F0%9F%94%90;Criador+do+DarkNode+%F0%9F%90%BA;Python+%7C+Automação+%7C+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Estudante+de+Ciberseguran%C3%A7a+%26+Programa%C3%A7%C3%A3o;Pentester+%C3%89tico+%F0%9F%94%90;Criador+do+DarkNode+%F0%9F%90%BA;Python+%7C+Automa%C3%A7%C3%A3o+%7C+IA" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 <!-- ====================== SOCIAL BADGES ====================== -->
 <a href="https://t.me/mr_joker78"><img src="https://img.shields.io/badge/Telegram-@mr__joker78-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://github.com/gnu23-sys"><img src="https://img.shields.io/badge/GitHub-gnu23--sys-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=gnu23-sys&style=for-the-badge&color=00ff9f&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=gnu23-sys&style=for-the-badge&color=ef4444&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -163,6 +163,6 @@ LIKIND: https://www.linkedin.com/in/gnu-modder-951ab2357?utm_source=share_via&ut
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=A%20verdadeira%20liberdade%20digital%20vem%20da%20cria%C3%A7%C3%A3o%20de%20valor.%20%F0%9F%9A%80&fontSize=16&fontColor=00ff9f&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:450a0a,100:0a0000&height=120&section=footer&text=A%20verdadeira%20liberdade%20digital%20vem%20da%20cria%C3%A7%C3%A3o%20de%20valor.%20%F0%9F%9A%80&fontSize=16&fontColor=ef4444&fontAlignY=70" width="100%"/>
 
 </div>
